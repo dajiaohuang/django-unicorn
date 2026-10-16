@@ -5,7 +5,7 @@
 `Unicorn` requires a working Django project before it can be used. While it is recommended that you have some experience working with Python and Django, below is a list of steps you would need do to use `Unicorn`.
 
 ```{dropdown} Install the latest version of Python
-`Unicorn` works with Python 3.8 or greater. If you don't have Python installed, you will need to download and install it on your local machine.
+`Unicorn` requires Python 3.10 or greater. If you don't have Python installed, you will need to download and install it on your local machine.
 
 You can find the [latest version](https://www.python.org/downloads/) of Python at [python.org](https://www.python.org).
 
